@@ -1,0 +1,12 @@
+[
+  "test_raffle_app.py::test_controller_run_choice_1",
+  "test_raffle_app.py::test_controller_run_choice_2",
+  "test_raffle_app.py::test_controller_run_choice_3",
+  "test_raffle_app.py::test_run_raffle_service_execute",
+  "test_raffle_app.py::test_sell_tickets_service_execute",
+  "test_raffle_app.py::test_sell_tickets_service_execute_invalid_ticket_count",
+  "test_raffle_app.py::test_sell_tickets_service_execute_valid_input",
+  "test_raffle_app.py::test_sell_tickets_service_invalid_ticket_count",
+  "test_raffle_app.py::test_start_raffle_service_execute",
+  "unit_test/test_raffle_app.py::TestRaffleApp::test_display_menu_option_1"
+]
