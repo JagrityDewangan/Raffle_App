@@ -1,0 +1,13 @@
+{
+  "test_raffle_app.py::test_start_raffle_service_execute": true,
+  "test_raffle_app.py::test_sell_tickets_service_execute": true,
+  "test_raffle_app.py::test_sell_tickets_service_invalid_ticket_count": true,
+  "test_raffle_app.py::test_run_raffle_service_execute": true,
+  "test_raffle_app.py::test_controller_run_choice_1": true,
+  "test_raffle_app.py::test_controller_run_choice_2": true,
+  "test_raffle_app.py::test_controller_run_choice_3": true,
+  "test_raffle_app.py::test_sell_tickets_service_execute_valid_input": true,
+  "test_raffle_app.py::test_sell_tickets_service_execute_invalid_ticket_count": true,
+  "test_raffle_app.py": true,
+  "unit_test/test_raffle_app.py": true
+}
