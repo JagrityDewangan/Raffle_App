@@ -14,8 +14,4 @@ For test case installation
 
 To run the test case in following directory : /Raffle_App/tests
 
-    pytest test_start_raffle_service.py
-
-    pytest test_sell_ticket_service.py 
-
-    pytest test_run_raffle_service.py
+    pytest test_raffle_app.py
