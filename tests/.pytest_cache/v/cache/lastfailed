@@ -1,0 +1,12 @@
+{
+  "test_raffle_app.py::test_display_menu_option_1": true,
+  "test_raffle_app.py::test_invalid_choice": true,
+  "test_run_raffle_service.py::test_run_raffle_service_with_rewards": true,
+  "test_run_raffle_service.py::test_run_raffle_service_with_rewards_and_display": true,
+  "test_run_raffle_service.py::TestRunRaffleService::test_execute_run_raffle": true,
+  "test_run_raffle_service.py::test_run_raffle_generate_winning_ticket_and_calculate_rewards": true,
+  "test_sell_ticket_service.py::TestSellTicketsService::test_execute_buy_tickets": true,
+  "test_sell_ticket_service.py::TestCase": true,
+  "test_sell_ticket_service.py::TestSellTicketsService": true,
+  "test_start_raffle_service.py::test_execute[input_value0-New Raffle draw has been started. Initial pot size: $100.00\\nPress any key to return to the main menu]": true
+}
